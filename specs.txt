@@ -1,0 +1,13 @@
+specs:
+* accept four files (word list, sound changes, categories, output)
+** todo: a separate file for list of characters?
+* special character to print interim steps
+
+idea:
+* convert string to array of phonemes (a phoneme might be represented with multiple ASCII)
+
+todo:
+* should be able to define categories in terms of themselves
+* should be able to define "environments"
+* should be able to apply multiple sound rules
+* sound rules can be optional if specified
