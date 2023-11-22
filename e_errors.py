@@ -1,0 +1,2 @@
+class EuphonyError(Exception):
+    pass
